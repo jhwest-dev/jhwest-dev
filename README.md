@@ -16,4 +16,4 @@ Azure 환경에서 RAG 검색 시스템과 데이터 파이프라인을 설계·
 ## Links
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jhwest-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](jhwest.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhwest.dev@gmail.com)
