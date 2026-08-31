@@ -1,28 +1,19 @@
-# Hi there, I'm Jihyun 👋
+# Jihyun
 
-## About Me
-- 🖥️ Backend Developer → Full Stack으로 성장 중
-- 🌱 Currently learning Frontend (React, JavaScript)
-- 📝 [jhwest.log](https://velog.io/@jhwest-dev)
+Python/FastAPI 기반 백엔드 개발자 (2년 9개월)
+
+Azure 환경에서 RAG 검색 시스템과 데이터 파이프라인을 설계·운영했으며,
+현재는 React/TypeScript로 프론트엔드까지 영역을 넓히고 있습니다.
 
 ## Tech Stack
-**Backend**
-- Python, FastAPI
 
-**Cloud**
-- Microsoft Azure
+**Backend** · Python, FastAPI, Node.js, Express  
+**Frontend** · React, TypeScript  
+**Cloud** · Azure (App Service, Functions, Fabric, OpenAI)  
+**Database** · MongoDB (Azure DocumentDB)  
+**Tools** · Git, GitHub Actions, Docker
 
-<!--
-**jhwest-dev/jhwest-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jhwest-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](jhwest.dev@gmail.com)
