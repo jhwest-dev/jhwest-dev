@@ -2,7 +2,7 @@
 
 Python/FastAPI 기반 백엔드 개발자 (2년 9개월)
 
-Azure 환경에서 RAG 검색 시스템과 데이터 파이프라인을 설계·운영했으며,
+Azure 환경에서 RAG 검색 시스템과 데이터 파이프라인을 설계·구현했으며,
 현재는 React/TypeScript로 프론트엔드까지 영역을 넓히고 있습니다.
 
 ## Tech Stack
